@@ -1,0 +1,11 @@
+.env
+__pycache__
+.DS_Store
+.idea
+db.sqlite3
+.virtualenv
+phishdetector/models/
+phishingdetectionplatform/phishdetector/migrations/
+phish/__init__.py
+__pycache__
+__init__.py
